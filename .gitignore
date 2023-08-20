@@ -14,7 +14,7 @@ Plugins/
 
 # Ignore root Visual Studio solution files. 
 # We do check in some sln files in subdirectories, so only ignore the ones found in the root.
-
+*.sln
 
 # Ignore Rider settings
 .idea/
